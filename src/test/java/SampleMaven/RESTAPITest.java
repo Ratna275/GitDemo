@@ -10,6 +10,7 @@ public class RESTAPITest {
 	{
 
 System.out.println("postJira");
+System.out.println("hi");
 	}
 	
 	@Test
